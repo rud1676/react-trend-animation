@@ -1,10 +1,26 @@
 {
   "name": "react-trend-animation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "browser": "./browser/specific/main.js",
+  "description": "Collection of React components implementing modern animation techniques: Providing dynamic and contemporary UI solutions for website hero sections.",
+  "keywords": [
+    "react",
+    "component",
+    "animation",
+    "UI"
+  ],
+  "author": {
+    "name": "rud1676",
+    "url": "https://velog.io/@rud1676/posts",
+    "email": "rud167637@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rud1676/react-trend-animation.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
